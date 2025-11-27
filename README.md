@@ -1,20 +1,20 @@
-### Hola ! I'm Anjali Bhagoria 👋 
+### Hola! I'm Anjali Bhagoria 👋 
 
 ## 🙋‍♀️ About Me  
 
-- 🔭 I’m currently working on an **Image Based Medical Diagnosis Research Project**.
-- 🌱 I’m passionate about exploring new things in the **Data Science and Artificial Intelligence domain**.
-- 👯 I’m looking to collaborate on **real life Machine Learning and Deep Learning concepts**.
-- 🤔 I’m looking for help with **OpenSource Projects**.
-- 💬 Ask me about Data Science Topics.
+- 🔭 I’m currently working as a **Data Scientist** with a strong foundation in **Machine Learning, Deep Learning, NLP, GenAI, and Data Engineering**.
+- 🌱 I’m passionate about **Generative AI, LLMs, graph-based learning, information retrieval, and applied machine intelligence**.
+- 👯 I’m looking to connect with roles and communities focused on **applied GenAI and scalable ML systems**.
+- 🤔 I’m an **Open-Source Contributor**.
+- 💬 Ask me about anything related to **Data Science & AI**.
 - 📫 How to reach me: <br /> 
-       **anjalibhagoria.17@gmail.com** <br /> 
-       **[LinkedIn](https://www.linkedin.com/in/anjali-bhagoria-3a574617a/)**       
-- 🐱‍🏍 Goal:  
-       **1. To explore new technologies**<br /> 
-       **2. To contribute in open source projects** <br /> 
-       **3. To give ML and DL based solutions for real life problems**            
-- ⚡ Fun fact: **I love doing wall paintings!!**
+       **[Email](mailto:anjalibhagoria.17@gmail.com)** <br /> 
+       **[LinkedIn](https://www.linkedin.com/in/anjali-bhagoria/)**       
+- 🐱‍🏍 Goals:  
+       **1. Collaborate on AI/ML research and applied projects**<br /> 
+       **2. Contribute to open-source ML ecosystems** <br /> 
+       **3. Work on projects involving LLMs, GenAI, CV, NLP, or advanced ML systems**            
+- ⚡ Fun fact: **I love Chai more than Coffee!!**
 
 ## 🚀 Languages and Tools
 
